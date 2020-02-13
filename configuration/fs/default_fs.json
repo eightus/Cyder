@@ -1,0 +1,2 @@
+{"data_type": "string", "data": "desktop.ini file!", "virtual_path": "/home/root/desktop.ini", "attributes": "rwxrwxrwx", "custom_size": 23422}
+{"data_type": "folder", "virtual_path": "/home/root/Documents/.test", "attributes": "rwxrwxrwx", "custom_size": false}

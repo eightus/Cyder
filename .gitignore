@@ -1,0 +1,10 @@
+.idea/
+Cloaked/__pycache__/
+Cloaked/config/__pycache__/
+Cloaked/probe/__pycache__/
+Tunnel/__pycache__/
+__pycache__/
+connection/__pycache__/
+venv/
+Debug/__pycache__/
+configuration/key/
