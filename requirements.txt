@@ -1,5 +1,5 @@
 scapy==2.4.3
-urllib3==1.25.8
+urllib3==1.26.5
 NetfilterQueue==0.8.1
 netaddr==0.7.19
 netifaces==0.10.9
